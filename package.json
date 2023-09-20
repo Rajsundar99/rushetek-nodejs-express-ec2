@@ -1,10 +1,11 @@
 {
   "name": "nodejs-express-ec2",
   "version": "0.0.1",
-  "description": "",
+  "description": "Rush elysian technologies Test website\r Can be accessed from rushetek.com",
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node your-script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
